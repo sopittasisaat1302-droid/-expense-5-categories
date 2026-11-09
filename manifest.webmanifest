@@ -1,0 +1,29 @@
+{
+  "id": "./",
+  "name": "บัญชีรายจ่าย 5 หมวด",
+  "short_name": "บัญชีรายจ่าย",
+  "description": "บันทึกรายจ่าย 5 หมวด แนบสลิป และสรุปรายงาน",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "categories": [
+    "finance",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
